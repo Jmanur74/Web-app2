@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Maven training!</h2>
+<h2>Hello world-1!</h2>
 </body>
 </html>
